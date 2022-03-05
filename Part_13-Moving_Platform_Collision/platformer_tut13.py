@@ -33,8 +33,8 @@ score = 0
 
 #define colours
 white = (255, 255, 255)
-blue = (255,69,0
-=-=)
+blue = (255,69,0)
+# =-=)
 
 
 #load images
